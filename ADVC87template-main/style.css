@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1500px;
+    color: white;
+	background: radial-gradient(circle, rgba(237,48,214,1) 28%, rgba(255,0,0,0.6110819327731092) 46%, rgba(196,0,255,1) 88%);;
+	display: inline-block;
+}
+
